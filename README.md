@@ -5,7 +5,16 @@
 
 ### LAYOUT DAS TELAS
 ### Tela 1
-![Tela 1](cadastroImg1.png)
+- Tela inicial do projeito, aonde é possivel olhar os usuários cadastrados,fazer pesquisas por tals e cadastrar novos.
+![Tela 1](telaInicial_PROJETObd.png)
+
+### Tela 2
+- Tela de cadastro onde é possivel cadastrar novos usuário no BD, após de salvar clique para voltar para tela anterior.
+![Tela 2](cadastroUsu_PROJETObd.png)
+
+### Tela 3
+- 
+![Tela 3]()
 
 ### TECNOLOGIAS ULTILIZADAS
 - Android Studios
