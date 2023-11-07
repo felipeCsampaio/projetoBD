@@ -24,7 +24,7 @@
 
 ### Tela 5
 - Na tela inicial, precionando o nome do usuário podemos editar(atualizar) ou exluir(excluir) os dados do usuário.
-![Tela 5]()
+![Tela 5](mostra.PNG)
 
 ### Tela 6
 - Tela de editar, aparecerá os dados do usuário onde será possivel editar os dados.
@@ -32,7 +32,7 @@
 
 ### Tela 7
 - Tela deletar onde é possivel excluir o usuário por definitivo do BD.
-![Tela 7]()
+![Tela 7](excluir.PNG)
 
 ### TECNOLOGIAS ULTILIZADAS
 - Android Studios
