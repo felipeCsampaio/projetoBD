@@ -13,8 +13,12 @@
 ![Tela 2](cadastroUsu_PROJETObd.png)
 
 ### Tela 3
-- 
-![Tela 3]()
+- Tela mostrando como fica a visibilidade dos dados do usuário após cadastrados.
+![Tela 3](aposSerCadastrado_PROJETObd.png)
+
+### Tela 4
+- Tela mostrando como funciona a pesquisa de usuário.
+![Tela 4](aposSerCadastrado_PROJETObd.png)
 
 ### TECNOLOGIAS ULTILIZADAS
 - Android Studios
