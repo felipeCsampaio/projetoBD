@@ -6,6 +6,8 @@
 ### LAYOUT DAS TELAS
 ### Tela 1
 - Tela inicial do projeito, aonde é possivel olhar os usuários cadastrados,fazer pesquisas por tals e cadastrar novos.
+
+  
 ![Tela 1](telaInicial_PROJETObd.png)
 
 ### Tela 2
@@ -19,6 +21,18 @@
 ### Tela 4
 - Tela mostrando como funciona a pesquisa de usuário.
 ![Tela 4](aposSerCadastrado_PROJETObd.png)
+
+### Tela 5
+- Na tela inicial, precionando o nome do usuário podemos editar(atualizar) ou exluir(excluir) os dados do usuário.
+![Tela 5]()
+
+### Tela 6
+- Tela de editar, aparecerá os dados do usuário onde será possivel editar os dados.
+![Tela 6](cadastroUsu_PROJETObd.png)
+
+### Tela 7
+- Tela deletar onde é possivel excluir o usuário por definitivo do BD.
+![Tela 7]()
 
 ### TECNOLOGIAS ULTILIZADAS
 - Android Studios
